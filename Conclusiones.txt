@@ -1,0 +1,6 @@
+1.- Este Cdp se centra en verificar la funcionalidad de compra en saucedemo.com, desde la autentificación
+del usuario hasta la confirmación de la orden.
+2.- La prueba abarca acciones como iniciar sesión, agregar productos al carrito, completar un formulario de
+información de envío y finalizar la compra.
+3.- Se menciona una confirmación "Thank you for your order!", que se utiliza como criterio para la prueba, lo que
+significa que si la prueba llega hasta ese punto, se considera exitosa.

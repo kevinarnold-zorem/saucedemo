@@ -1,0 +1,11 @@
+image: maven:3.9.3-amazoncorretto-20
+
+build:
+  stage: build
+  script:
+    - mvn compile
+
+test:
+  stage: test
+  script:
+    - mvn clean test
